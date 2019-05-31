@@ -1,0 +1,11 @@
+{
+  "name": "audiometric-calculator",
+  "version": "1.0.0",
+  "description": "Calculate the Audiometric exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
