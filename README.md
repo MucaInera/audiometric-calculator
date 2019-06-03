@@ -8,7 +8,7 @@ try {
     {
       age: 36,
       height: 1.78,
-      height: 93,
+      weigth: 93,
       sex: 'm',
       type: 'pistelli2007', // ceca || ers || paoletti || pistelli2000 || pistelli2007
       vc: 1,
